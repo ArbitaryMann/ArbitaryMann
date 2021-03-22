@@ -1,4 +1,4 @@
-# HELLO HOW CAN I HELP YOU?
+# WHO AM I?
 ⚡ Founder of WannaHook Library (C++)<br />
 ⚡ Front End Developer<br />
 ⚡ Hobyist Dev<br />
