@@ -6,6 +6,4 @@
 ⚡ Reversals<br />
 ⚡ Game Hack Softwares<br />
 ✔️ Support me on Patreon <a href="#">Patreon</a>
-<script>
-alert('exploited your pc');
-</script>
+
