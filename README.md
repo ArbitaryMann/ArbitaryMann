@@ -4,4 +4,5 @@
 ⚡ Hobyist Dev<br />
 ⚡ Unknowncheats Publisher<br />
 ⚡ Reversals<br />
-⚡ Game Hack Softwares
+⚡ Game Hack Softwares<br />
+✔️ Support me on Patreon <a href="#">Patreon</a>
